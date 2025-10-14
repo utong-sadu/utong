@@ -1,5 +1,3 @@
-# utong
-Reposting by GitHub 
 <!DOCTYPE html>
 <html lang="km">
 <head>
